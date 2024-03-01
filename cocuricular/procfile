@@ -1,0 +1,1 @@
+web: gunicorn cocuriculm.wsgi --log-file -
